@@ -1,3 +1,5 @@
+[![Maintained by Avalux](https://img.shields.io/badge/Maintained%20by-Avalux.io-3b82f6?style=flat-square)](https://avalux.io)
+
 # Freight ETA Toolkit
 
 > Open-source utilities for freight brokers and 3PLs to build their own driver-tracking and shipper-ETA dashboards on top of Geotab, Samsara, and Motive APIs. Stop the phone-tag. Built and maintained by [Avalux](https://avalux.io) — an AI automation agency for SMB freight, e-commerce, and home services.
