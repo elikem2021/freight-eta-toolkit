@@ -41,7 +41,7 @@ This is *not* for shippers without their own carrier relationships, or for broke
 ## Quick start
 
 ```bash
-git clone https://github.com/elikem2021/freight-eta-toolkit
+git clone https://github.com/avalux-io/freight-eta-toolkit
 cd freight-eta-toolkit
 cp .env.example .env             # add your Geotab/Samsara/Motive credentials
 pip install -r requirements.txt
@@ -95,8 +95,8 @@ If you want this built and operated for you, we do that — full transparency, f
 
 ## Avalux's other open source projects
 
-- [shopify-quickbooks-sync](https://github.com/elikem2021/shopify-quickbooks-sync) — Shopify ↔ QuickBooks Online order, inventory, and refund sync middleware
-- [n8n-self-hosted-toolkit](https://github.com/elikem2021/n8n-self-hosted-toolkit) — Production n8n self-hosted setup for SMB ops automation, the open-source Zapier alternative
+- [shopify-quickbooks-sync](https://github.com/avalux-io/shopify-quickbooks-sync) — Shopify ↔ QuickBooks Online order, inventory, and refund sync middleware
+- [n8n-self-hosted-toolkit](https://github.com/avalux-io/n8n-self-hosted-toolkit) — Production n8n self-hosted setup for SMB ops automation, the open-source Zapier alternative
 
 ## License
 
